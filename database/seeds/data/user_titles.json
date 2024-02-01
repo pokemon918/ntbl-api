@@ -1,0 +1,46 @@
+[
+	{
+		"key": "sommelier",
+		"name": "Sommelier"
+	},
+	{
+		"key": "winemaker",
+		"name": "Winemaker"
+	},
+	{
+		"key": "wine_expert",
+		"name": "Wine Expert"
+	},
+	{
+		"key": "wine_enthusiast",
+		"name": "Wine Enthusiast"
+	},
+	{
+		"key": "wine_producer",
+		"name": "Wine Producer"
+	},
+	{
+		"key": "wine_importer",
+		"name": "Wine Importer"
+	},
+	{
+		"key": "wine_dealer",
+		"name": "Wine Dealer"
+	},
+	{
+		"key": "wine_writer",
+		"name": "Wine Writer"
+	},
+	{
+		"key": "wine_blogger",
+		"name": "Wine Blogger"
+	},
+	{
+		"key": "wine_collector",
+		"name": "Wine Collector"
+	},
+	{
+		"key": "other",
+		"name": "Other"
+	}
+]

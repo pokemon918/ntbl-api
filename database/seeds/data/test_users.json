@@ -1,0 +1,37 @@
+[
+	{
+		"ref": "citu",
+		"name": "citu",
+		"handle": "citu",
+		"email": "citu@ntbl.link",
+		"plan": "subscribe"
+	},
+	{
+		"ref": "citv",
+		"name": "citv",
+		"handle": "citv",
+		"email": "citv@ntbl.link",
+		"plan": "view"
+	},
+	{
+		"ref": "citb",
+		"name": "citb",
+		"handle": "citb",
+		"email": "citb@ntbl.link",
+		"plan": "basic"
+	},
+	{
+		"ref": "citp",
+		"name": "citp",
+		"handle": "citp",
+		"email": "citp@ntbl.link",
+		"plan": "pro"
+	},
+	{
+		"ref": "cits",
+		"name": "cits",
+		"handle": "cits",
+		"email": "cits@ntbl.link",
+		"plan": "scholar"
+	}
+]

@@ -1,0 +1,116 @@
+image: atlassian/default-image:2
+
+
+clone:
+  depth: 30
+options: 
+  max-time: 30
+
+pipelines:
+
+
+  branches:
+    develop:
+      - step:
+          name: Autodeploy to CI backend
+          script:
+             # only run on last commit
+            - eval '[[ ! -z "$BITBUCKET_TAG" ]] || [ "$BITBUCKET_COMMIT" == "$(git rev-parse --short=12 $BITBUCKET_BRANCH)" ] || [ "Pipeline" == "$(git show -s --format=%B $BITBUCKET_BRANCH | head -n 1 | xargs)" ] || (echo "Ill pass this run..." && exit 0)'
+            
+            - apt-get update && apt-get install -y sshpass
+            - sshpass -p $NTBL_KEY ssh -t ntbl.link@ntbl.link "alias php="/opt/alt/php-latest/usr/bin/php" && cd ci-api/develop && npm run download ; exit"
+
+
+
+
+  pull-requests:
+    '**':
+      - step:
+          name: Full regression test of API
+          image: php:7.2
+          services:
+            - mysql
+          caches:
+            # - node
+            - composer
+            - vendor
+            - yarncash
+          script:
+
+
+            # Pusing many commits at once will still trigger pipelines to run on each of them. Exit if not head. To rerun an old pipeline make a commit with the message "Pipeline"
+            - eval '[[ ! -z "$BITBUCKET_TAG" ]] || [ "$BITBUCKET_COMMIT" == "$(git rev-parse --short=12 $BITBUCKET_BRANCH)" ] || [ "Pipeline" == "$(git show -s --format=%B $BITBUCKET_BRANCH | head -n 1 | xargs)" ] || (echo "Ill pass this run..." && exit 0)'
+            - HIST_FILE="./public_html/autodeploy/history.txt"
+            
+
+            # Fetch eksternal resources
+            - docker-php-ext-install pdo_mysql 
+            - apt-get update && apt-get install -y wget openssh-client sshpass git-core zip unzip procps # last one installs pkill
+            - curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash && source ~/.profile # install nvm
+
+            # Install dependencies
+            - nvm install 14 # node v14
+            - node -v && npm -v && nvm --version && php -v 
+            - npm install yarn -g
+            - yarn install --frozen-lockfile
+
+            # Get info right
+            - DEPLOY_NAME="$BITBUCKET_BRANCH"
+            - eval '[[ -z "$BITBUCKET_TAG" ]] || DEPLOY_NAME="$BITBUCKET_TAG"'
+            - DEPLOY_KEY="$(echo $DEPLOY_NAME | npx rexreplace '[^a-z§d]+' - | npx rexreplace '^-' '' | npx rexreplace '-€' '')"
+            - KEY_INFO="WEB $DEPLOY_KEY $DEPLOY_NAME $BITBUCKET_BUILD_NUMBER"
+            - echo $KEY_INFO
+            - DEST_PATH="/var/www/ntbl.link/public_html/autodeploy/$DEPLOY_KEY"
+
+            # Ship diff for QA
+            - sshpass -p $NTBL_KEY ssh -t ntbl.link@ntbl.link "echo '$(date '+%Y-%m-%d %T') 1 $KEY_INFO DIFF_START' >> $HIST_FILE ; exit"
+            - git config remote.origin.fetch "+refs/heads/*:refs/remotes/origin/*"
+            - git remote update
+            - git fetch --all
+            - git checkout develop
+            - git checkout $BITBUCKET_COMMIT
+            - yarn diff2html
+            - npx rexreplace '<h1.*h1>' "<h1>$DEPLOY_NAME</h1>" diff.html
+            - sshpass -p $NTBL_KEY ssh -t ntbl.link@ntbl.link "mkdir -p $DEST_PATH && touch $DEST_PATH/index.html ; exit"
+            - sshpass -p $NTBL_KEY scp -r ./diff.html "ntbl.link@ntbl.link:$DEST_PATH/index.html"
+
+            # Run setup and test
+            - sshpass -p $NTBL_KEY ssh -t ntbl.link@ntbl.link "echo '$(date '+%Y-%m-%d %T') 1 $KEY_INFO TEST_START' >> $HIST_FILE ; exit"
+            - yarn install-components
+            - git checkout master
+            - php composer.phar dump-autoload
+            - yarn seed     # Initiate with whats on master
+            - git checkout develop
+            - yarn seed     # Migrate + seed onto dev master
+            - git checkout $BITBUCKET_COMMIT
+            - yarn seed     # Migrate + seed onto develop
+            - yarn rollback # Test roleback
+            - yarn seed     # Test role forward
+            - yarn seed     # Test remigration
+            - yarn test-ci 
+            - php artisan migrate:refresh --force # Role all the way back and remigrate
+            - sshpass -p $NTBL_KEY ssh -t ntbl.link@ntbl.link "echo '$(date '+%Y-%m-%d %T') 1 $KEY_INFO TEST_DONE' >> $HIST_FILE ; exit"
+            
+            # Round up
+            - pkill php       # make sure background PHP service is not hanging
+
+          #artifacts:
+          #  - test.log
+            
+      #- step: 
+      #   name: Display test 
+      #   script:
+      #    - cat test.log  
+
+definitions: 
+  caches:
+    vendor: ./vendor
+    yarncash: /usr/local/share/.cache/yarn/
+  services: 
+    mysql: 
+      image: mysql:5.7.22 
+      environment: 
+        MYSQL_DATABASE: 'ntbl_dev_api'
+        MYSQL_RANDOM_ROOT_PASSWORD: 'yes' 
+        MYSQL_USER: 'pipeline'
+        MYSQL_PASSWORD: 'pipeline'

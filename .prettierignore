@@ -1,0 +1,4 @@
+vendor/*
+storage/*
+client/dist/*
+client/.cache/*

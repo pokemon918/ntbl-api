@@ -1,0 +1,154 @@
+{
+	"wines": [
+		{
+			"name": "Wine 1",
+			"producer": "wine producer",
+			"country": "England",
+			"region": "Northern England",
+			"vintage": "1754",
+			"grape": "Cabernet Sauvignon",
+			"price": 199.99,
+			"currency": "DKK",
+			"clean_key": "clean",
+			"producer_key": "producerkey",
+			"country_key": "countrykey",
+			"region_key": "regionkey",
+			"summary_wine": "This wine is is...",
+			"summary_personal": "My personal experience with this is...",
+			"stats": [
+				{
+					"start": "00500"
+				},
+				{
+					"time": 39
+				}
+			],
+			"rating": {
+				"version": 10000,
+				"final_points": 100,
+				"balance": 1,
+				"length": 0.5,
+				"intensity": 0.5,
+				"terroir": 1,
+				"complexity": 0.3
+			},
+			"notes": {
+				"@": ["category_still", "clarity_clear", "colorintensity_deep"],
+				"nose": ["note_acacia", "note_chamomile", "note_violet"],
+				"palate": ["note_tomato_leaf", "note_asparagus", "note_pineapple"]
+			},
+			"metadata": "{\"medal_page\":true}",
+			"location": "copenhagen",
+			"gps": {
+				"lat": 90,
+				"long": 180
+			},
+			"info": {
+				"shape": "tall",
+				"height": 3.5,
+				"drinkability": 0.5,
+				"maturity": 0.5
+			}
+		},
+		{
+			"name": "Wine 2",
+			"producer": "wine producer",
+			"country": "England",
+			"region": "Northern England",
+			"vintage": "1754",
+			"grape": "Cabernet Sauvignon",
+			"price": 199.99,
+			"currency": "DKK",
+			"clean_key": "clean",
+			"producer_key": "producerkey",
+			"country_key": "countrykey",
+			"region_key": "regionkey",
+			"summary_wine": "This wine is is...",
+			"summary_personal": "My personal experience with this is...",
+			"stats": [
+				{
+					"start": "00500"
+				},
+				{
+					"time": 39
+				}
+			],
+			"rating": {
+				"version": 10000,
+				"final_points": 100,
+				"balance": 1,
+				"length": 0.5,
+				"intensity": 0.5,
+				"terroir": 1,
+				"complexity": 0.3
+			},
+			"notes": {
+				"@": ["category_still", "clarity_clear", "colorintensity_deep"],
+				"nose": ["note_acacia", "note_chamomile", "note_violet"],
+				"palate": ["note_tomato_leaf", "note_asparagus", "note_pineapple"]
+			},
+			"metadata": "{\"medal_page\":true}",
+			"location": "copenhagen",
+			"gps": {
+				"lat": 90,
+				"long": 180
+			},
+			"info": {
+				"shape": "tall",
+				"height": 3.5,
+				"drinkability": 0.5,
+				"maturity": 0.5
+			}
+		},
+		{
+			"name": "Wine 3",
+			"producer": "wine producer",
+			"country": "England",
+			"region": "Northern England",
+			"vintage": "1754",
+			"grape": "Cabernet Sauvignon",
+			"price": 199.99,
+			"currency": "DKK",
+			"clean_key": "clean",
+			"producer_key": "producerkey",
+			"country_key": "countrykey",
+			"region_key": "regionkey",
+			"summary_wine": "This wine is is...",
+			"summary_personal": "My personal experience with this is...",
+			"stats": [
+				{
+					"start": "00500"
+				},
+				{
+					"time": 39
+				}
+			],
+			"rating": {
+				"version": 10000,
+				"final_points": 100,
+				"balance": 1,
+				"length": 0.5,
+				"intensity": 0.5,
+				"terroir": 1,
+				"complexity": 0.3
+			},
+			"notes": {
+				"@": ["category_still", "clarity_clear", "colorintensity_deep"],
+				"nose": ["note_acacia", "note_chamomile", "note_violet"],
+				"palate": ["note_tomato_leaf", "note_asparagus", "note_pineapple"]
+			},
+			"metadata": "{medal_page:true \n 'views': 1000 , }",
+			"location": "copenhagen",
+			"gps": {
+				"lat": 90,
+				"long": 180
+			},
+			"info": {
+				"shape": "tall",
+				"height": 3.5,
+				"drinkability": 0.5,
+				"maturity": 0.5
+			}
+		}
+	]
+}

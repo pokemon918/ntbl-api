@@ -1,0 +1,14 @@
+{
+	"keys": [
+		"country",
+		"region",
+		"grape",
+		"wine_pairing",
+		"notes",
+		"events",
+		"education",
+		"tasting_profiles",
+		"reviews",
+		"newsletter"
+	]
+}

@@ -1,0 +1,70 @@
+[
+	{
+		"key": "shape",
+		"value_type": "info"
+	},
+	{
+		"key": "height",
+		"value_type": "value"
+	},
+	{
+		"key": "rating_blind",
+		"value_type": "rating"
+	},
+	{
+		"key": "parker_blind",
+		"value_type": "value"
+	},
+	{
+		"key": "parker_points",
+		"value_type": "value"
+	},
+	{
+		"key": "balance",
+		"value_type": "rating"
+	},
+	{
+		"key": "finish",
+		"value_type": "rating"
+	},
+	{
+		"key": "length",
+		"value_type": "rating"
+	},
+	{
+		"key": "intensity",
+		"value_type": "rating"
+	},
+	{
+		"key": "complexity",
+		"value_type": "rating"
+	},
+	{
+		"key": "sense_of_place",
+		"value_type": "rating"
+	},
+	{
+		"key": "drinkability",
+		"value_type": "rating"
+	},
+	{
+		"key": "maturity",
+		"value_type": "rating"
+	},
+	{
+		"key": "typicity",
+		"value_type": "rating"
+	},
+	{
+		"key": "value_for_money",
+		"value_type": "rating"
+	},
+	{
+		"key": "recommendation",
+		"value_type": "info"
+	},
+	{
+		"key": "medal",
+		"value_type": "info"
+	}
+]

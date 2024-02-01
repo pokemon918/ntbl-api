@@ -1,0 +1,1377 @@
+{
+	"123 All combinations flight": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 1",
+			"category": "123 All combinations cat.",
+			"flight": "123 All combinations flight",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "South Africa",
+				"name": "Wine 1 still red",
+				"region": "Western Cape",
+				"vintage": 2018,
+				"price": 7.2,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "Wine 2 still white",
+				"region": "Touraine",
+				"vintage": 2017,
+				"price": 9.57,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Slovenia",
+				"name": "Wine 3 still rosé",
+				"region": "Podravje",
+				"vintage": 2016,
+				"price": 10.62,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_rose"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "Wine 4 sparkling red",
+				"region": "Western Cape",
+				"vintage": 2018,
+				"price": 7.2,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_red"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "Wine 5 sparkling white",
+				"region": "Touraine",
+				"vintage": 2017,
+				"price": 9.57,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "Slovenia",
+				"name": "Wine 6 sparkling rosé",
+				"region": "Podravje",
+				"vintage": 2016,
+				"price": 10.62,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_rose"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "Wine 7 fortified red",
+				"region": "Western Cape",
+				"vintage": 2018,
+				"price": 7.2,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_fortified", "nuance_red"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "Wine 8 fortified white",
+				"region": "Touraine",
+				"vintage": 2017,
+				"price": 9.57,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_fortified", "nuance_white"]
+				}
+			},
+			{
+				"country": "Slovenia",
+				"name": "Wine 9 fortified rosé",
+				"region": "Podravje",
+				"vintage": 2016,
+				"price": 10.62,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_fortified", "nuance_rose"]
+				}
+			}
+		]
+	},
+	"Round 2: Chardonnay - white - assorted countries (Team 1)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 1",
+			"category": "Chardonnay - white - assorted countries",
+			"flight": "Round 2: Chardonnay - white - assorted countries (Team 1)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "Italy",
+				"name": "Wine 1 from Italy",
+				"region": "Noth East",
+				"vintage": 2018,
+				"price": 7.38,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "Wine 2 from South Africa",
+				"region": "Western Cape",
+				"vintage": 2017,
+				"price": 7.72,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Lebanon",
+				"name": "Wine 3 from Lebanon",
+				"region": "Bekaa Valley",
+				"vintage": 2016,
+				"price": 16.52,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Round 2: Rhone - white - France (Team 1)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 1",
+			"category": "Rhone - white - France",
+			"flight": "Round 2: Rhone - white - France (Team 1)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "France",
+				"name": "Wine 1 from France",
+				"region": "Rhône",
+				"vintage": 2016,
+				"price": 14.65,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "Wine 2 from France",
+				"region": "Rhône",
+				"vintage": 2016,
+				"price": 14.81,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Round 2: Shiraz & Shiraz blends - red - Australia (Team 1)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 1",
+			"category": "Shiraz & Shiraz blends - red - Australia",
+			"flight": "Round 2: Shiraz & Shiraz blends - red - Australia (Team 1)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "Australia",
+				"name": "Wine 1 from Australia",
+				"region": "South Eastern Australia",
+				"vintage": 2017,
+				"price": 4.5,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "Wine 2 from Australia",
+				"region": "Barossa",
+				"vintage": 2016,
+				"price": 12.42,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "Wine 3 from Australia",
+				"region": "Barossa Valley",
+				"vintage": 2015,
+				"price": 15.12,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "Wine 4 from Australia",
+				"region": "Eden Valley",
+				"vintage": 2015,
+				"price": 20.9,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			}
+		]
+	},
+	"Round 2: Shiraz & Shiraz blends - red - South Africa (Team 1)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 1",
+			"category": "Shiraz & Shiraz blends - red - South Africa",
+			"flight": "Round 2: Shiraz & Shiraz blends - red - South Africa (Team 1)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "South Africa",
+				"name": "Wine 1 from South Africa",
+				"region": "Stellenbosch",
+				"vintage": 2017,
+				"price": 9.36,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "Wine 2 from South Africa",
+				"region": "Stellenbosch",
+				"vintage": 2015,
+				"price": 17.24,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			}
+		]
+	},
+	"Round 2: Sauvignon Blanc - white - assorted countries (Team 1)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 1",
+			"category": "Sauvignon Blanc - white - assorted countries",
+			"flight": "Round 2: Sauvignon Blanc - white - assorted countries (Team 1)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "South Africa",
+				"name": "Wine 1 from South Africa",
+				"region": "Western Cape",
+				"vintage": 2018,
+				"price": 7.2,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "Wine 2 from France",
+				"region": "Touraine",
+				"vintage": 2017,
+				"price": 9.57,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Slovenia",
+				"name": "Wine 3 from Slovenia",
+				"region": "Podravje",
+				"vintage": 2016,
+				"price": 10.62,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Israel",
+				"name": "Wine 4 from Israel",
+				"region": "Upper Galilee",
+				"vintage": 2016,
+				"price": 13.33,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Round 2: Chardonnay - white - assorted countries (Team 1)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 1",
+			"category": "Chardonnay - white - assorted countries",
+			"flight": "Round 2: Chardonnay - white - assorted countries (Team 1)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "Italy",
+				"name": "Wine 1 from Italy",
+				"region": "Noth East",
+				"vintage": 2018,
+				"price": 7.38,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "Wine 2 from South Africa",
+				"region": "Western Cape",
+				"vintage": 2017,
+				"price": 7.72,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Lebanon",
+				"name": "Wine 3 from Lebanon",
+				"region": "Bekaa Valley",
+				"vintage": 2016,
+				"price": 16.52,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Round 2: Rhone - white - France (Team 1)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 1",
+			"category": "Rhone - white - France",
+			"flight": "Round 2: Rhone - white - France (Team 1)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "France",
+				"name": "Wine 1 from France",
+				"region": "Rhône",
+				"vintage": 2016,
+				"price": 14.65,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "Wine 2 from France",
+				"region": "Rhône",
+				"vintage": 2016,
+				"price": 14.81,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Round 2: Shiraz & Shiraz blends - red - Australia (Team 1)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 1",
+			"category": "Shiraz & Shiraz blends - red - Australia",
+			"flight": "Round 2: Shiraz & Shiraz blends - red - Australia (Team 1)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "Australia",
+				"name": "Wine 1 from Australia",
+				"region": "South Eastern Australia",
+				"vintage": 2017,
+				"price": 4.5,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "Wine 2 from Australia",
+				"region": "Barossa",
+				"vintage": 2016,
+				"price": 12.42,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "Wine 3 from Australia",
+				"region": "Barossa Valley",
+				"vintage": 2015,
+				"price": 15.12,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "Wine 4 from Australia",
+				"region": "Eden Valley",
+				"vintage": 2015,
+				"price": 20.9,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			}
+		]
+	},
+	"Round 2: Shiraz & Shiraz blends - red - South Africa (Team 1)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 1",
+			"category": "Shiraz & Shiraz blends - red - South Africa",
+			"flight": "Round 2: Shiraz & Shiraz blends - red - South Africa (Team 1)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "South Africa",
+				"name": "Wine 1 from South Africa",
+				"region": "Stellenbosch",
+				"vintage": 2017,
+				"price": 9.36,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "Wine 2 from South Africa",
+				"region": "Stellenbosch",
+				"vintage": 2015,
+				"price": 17.24,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			}
+		]
+	},
+	"Round 2: Sauvignon Blanc - white - assorted countries (Team 2)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 2",
+			"category": "Sauvignon Blanc - white - assorted countries",
+			"flight": "Round 2: Sauvignon Blanc - white - assorted countries (Team 2)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "South Africa",
+				"name": "Wine 1 from South Africa",
+				"region": "Western Cape",
+				"vintage": 2018,
+				"price": 7.2,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "Wine 2 from France",
+				"region": "Touraine",
+				"vintage": 2017,
+				"price": 9.57,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Slovenia",
+				"name": "Wine 3 from Slovenia",
+				"region": "Podravje",
+				"vintage": 2016,
+				"price": 10.62,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Israel",
+				"name": "Wine 4 from Israel",
+				"region": "Upper Galilee",
+				"vintage": 2016,
+				"price": 13.33,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Round 2: Chardonnay - white - assorted countries (Team 2)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 2",
+			"category": "Chardonnay - white - assorted countries",
+			"flight": "Round 2: Chardonnay - white - assorted countries (Team 2)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "Italy",
+				"name": "Wine 1 from Italy",
+				"region": "Noth East",
+				"vintage": 2018,
+				"price": 7.38,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "Wine 2 from South Africa",
+				"region": "Western Cape",
+				"vintage": 2017,
+				"price": 7.72,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Lebanon",
+				"name": "Wine 3 from Lebanon",
+				"region": "Bekaa Valley",
+				"vintage": 2016,
+				"price": 16.52,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Round 2: Rhone - white - France (Team 2)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 2",
+			"category": "Rhone - white - France",
+			"flight": "Round 2: Rhone - white - France (Team 2)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "France",
+				"name": "Wine 1 from France",
+				"region": "Rhône",
+				"vintage": 2016,
+				"price": 14.65,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "Wine 2 from France",
+				"region": "Rhône",
+				"vintage": 2016,
+				"price": 14.81,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Round 2: Shiraz & Shiraz blends - red - Australia (Team 2)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 2",
+			"category": "Shiraz & Shiraz blends - red - Australia",
+			"flight": "Round 2: Shiraz & Shiraz blends - red - Australia (Team 2)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "Australia",
+				"name": "Wine 1 from Australia",
+				"region": "South Eastern Australia",
+				"vintage": 2017,
+				"price": 4.5,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "Wine 2 from Australia",
+				"region": "Barossa",
+				"vintage": 2016,
+				"price": 12.42,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "Wine 3 from Australia",
+				"region": "Barossa Valley",
+				"vintage": 2015,
+				"price": 15.12,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "Wine 4 from Australia",
+				"region": "Eden Valley",
+				"vintage": 2015,
+				"price": 20.9,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			}
+		]
+	},
+	"Round 2: Shiraz & Shiraz blends - red - South Africa (Team 2)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 2",
+			"category": "Shiraz & Shiraz blends - red - South Africa",
+			"flight": "Round 2: Shiraz & Shiraz blends - red - South Africa (Team 2)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "South Africa",
+				"name": "Wine 1 from South Africa",
+				"region": "Stellenbosch",
+				"vintage": 2017,
+				"price": 9.36,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "Wine 2 from South Africa",
+				"region": "Stellenbosch",
+				"vintage": 2015,
+				"price": 17.24,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			}
+		]
+	},
+	"Round 2: Sauvignon Blanc - white - assorted countries (Team 2)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 2",
+			"category": "Sauvignon Blanc - white - assorted countries",
+			"flight": "Round 2: Sauvignon Blanc - white - assorted countries (Team 2)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "South Africa",
+				"name": "Wine 1 from South Africa",
+				"region": "Western Cape",
+				"vintage": 2018,
+				"price": 7.2,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "Wine 2 from France",
+				"region": "Touraine",
+				"vintage": 2017,
+				"price": 9.57,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Slovenia",
+				"name": "Wine 3 from Slovenia",
+				"region": "Podravje",
+				"vintage": 2016,
+				"price": 10.62,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Israel",
+				"name": "Wine 4 from Israel",
+				"region": "Upper Galilee",
+				"vintage": 2016,
+				"price": 13.33,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Round 2: Chardonnay - white - assorted countries (Team 2)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 2",
+			"category": "Chardonnay - white - assorted countries",
+			"flight": "Round 2: Chardonnay - white - assorted countries (Team 2)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "Italy",
+				"name": "Wine 1 from Italy",
+				"region": "Noth East",
+				"vintage": 2018,
+				"price": 7.38,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "Wine 2 from South Africa",
+				"region": "Western Cape",
+				"vintage": 2017,
+				"price": 7.72,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Lebanon",
+				"name": "Wine 3 from Lebanon",
+				"region": "Bekaa Valley",
+				"vintage": 2016,
+				"price": 16.52,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Round 2: Rhone - white - France (Team 2)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 2",
+			"category": "Rhone - white - France",
+			"flight": "Round 2: Rhone - white - France (Team 2)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "France",
+				"name": "Wine 1 from France",
+				"region": "Rhône",
+				"vintage": 2016,
+				"price": 14.65,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "Wine 2 from France",
+				"region": "Rhône",
+				"vintage": 2016,
+				"price": 14.81,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Round 2: Shiraz & Shiraz blends - red - Australia (Team 2)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 2",
+			"category": "Shiraz & Shiraz blends - red - Australia",
+			"flight": "Round 2: Shiraz & Shiraz blends - red - Australia (Team 2)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "Australia",
+				"name": "Wine 1 from Australia",
+				"region": "South Eastern Australia",
+				"vintage": 2017,
+				"price": 4.5,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "Wine 2 from Australia",
+				"region": "Barossa",
+				"vintage": 2016,
+				"price": 12.42,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "Wine 3 from Australia",
+				"region": "Barossa Valley",
+				"vintage": 2015,
+				"price": 15.12,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "Wine 4 from Australia",
+				"region": "Eden Valley",
+				"vintage": 2015,
+				"price": 20.9,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			}
+		]
+	},
+	"Round 2: Shiraz & Shiraz blends - red - South Africa (Team 2)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 2",
+			"category": "Shiraz & Shiraz blends - red - South Africa",
+			"flight": "Round 2: Shiraz & Shiraz blends - red - South Africa (Team 2)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "South Africa",
+				"name": "Wine 1 from South Africa",
+				"region": "Stellenbosch",
+				"vintage": 2017,
+				"price": 9.36,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "Wine 2 from South Africa",
+				"region": "Stellenbosch",
+				"vintage": 2015,
+				"price": 17.24,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			}
+		]
+	},
+	"Round 2: Sauvignon Blanc - white - assorted countries (Team 3)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 3",
+			"category": "Sauvignon Blanc - white - assorted countries",
+			"flight": "Round 2: Sauvignon Blanc - white - assorted countries (Team 3)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "South Africa",
+				"name": "Wine 1 from South Africa",
+				"region": "Western Cape",
+				"vintage": 2018,
+				"price": 7.2,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "Wine 2 from France",
+				"region": "Touraine",
+				"vintage": 2017,
+				"price": 9.57,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Slovenia",
+				"name": "Wine 3 from Slovenia",
+				"region": "Podravje",
+				"vintage": 2016,
+				"price": 10.62,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Israel",
+				"name": "Wine 4 from Israel",
+				"region": "Upper Galilee",
+				"vintage": 2016,
+				"price": 13.33,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Round 2: Chardonnay - white - assorted countries (Team 3)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 3",
+			"category": "Chardonnay - white - assorted countries",
+			"flight": "Round 2: Chardonnay - white - assorted countries (Team 3)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "Italy",
+				"name": "Wine 1 from Italy",
+				"region": "Noth East",
+				"vintage": 2018,
+				"price": 7.38,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "Wine 2 from South Africa",
+				"region": "Western Cape",
+				"vintage": 2017,
+				"price": 7.72,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Lebanon",
+				"name": "Wine 3 from Lebanon",
+				"region": "Bekaa Valley",
+				"vintage": 2016,
+				"price": 16.52,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Round 2: Rhone - white - France (Team 3)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 3",
+			"category": "Rhone - white - France",
+			"flight": "Round 2: Rhone - white - France (Team 3)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "France",
+				"name": "Wine 1 from France",
+				"region": "Rhône",
+				"vintage": 2016,
+				"price": 14.65,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "Wine 2 from France",
+				"region": "Rhône",
+				"vintage": 2016,
+				"price": 14.81,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Round 2: Shiraz & Shiraz blends - red - Australia (Team 3)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 3",
+			"category": "Shiraz & Shiraz blends - red - Australia",
+			"flight": "Round 2: Shiraz & Shiraz blends - red - Australia (Team 3)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "Australia",
+				"name": "Wine 1 from Australia",
+				"region": "South Eastern Australia",
+				"vintage": 2017,
+				"price": 4.5,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "Wine 2 from Australia",
+				"region": "Barossa",
+				"vintage": 2016,
+				"price": 12.42,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "Wine 3 from Australia",
+				"region": "Barossa Valley",
+				"vintage": 2015,
+				"price": 15.12,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "Wine 4 from Australia",
+				"region": "Eden Valley",
+				"vintage": 2015,
+				"price": 20.9,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			}
+		]
+	},
+	"Round 2: Shiraz & Shiraz blends - red - South Africa (Team 3)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 3",
+			"category": "Shiraz & Shiraz blends - red - South Africa",
+			"flight": "Round 2: Shiraz & Shiraz blends - red - South Africa (Team 3)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "South Africa",
+				"name": "Wine 1 from South Africa",
+				"region": "Stellenbosch",
+				"vintage": 2017,
+				"price": 9.36,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "Wine 2 from South Africa",
+				"region": "Stellenbosch",
+				"vintage": 2015,
+				"price": 17.24,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			}
+		]
+	},
+	"Round 2: Sauvignon Blanc - white - assorted countries (Team 3)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 3",
+			"category": "Sauvignon Blanc - white - assorted countries",
+			"flight": "Round 2: Sauvignon Blanc - white - assorted countries (Team 3)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "South Africa",
+				"name": "Wine 1 from South Africa",
+				"region": "Western Cape",
+				"vintage": 2018,
+				"price": 7.2,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "Wine 2 from France",
+				"region": "Touraine",
+				"vintage": 2017,
+				"price": 9.57,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Slovenia",
+				"name": "Wine 3 from Slovenia",
+				"region": "Podravje",
+				"vintage": 2016,
+				"price": 10.62,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Israel",
+				"name": "Wine 4 from Israel",
+				"region": "Upper Galilee",
+				"vintage": 2016,
+				"price": 13.33,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Round 2: Chardonnay - white - assorted countries (Team 3)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 3",
+			"category": "Chardonnay - white - assorted countries",
+			"flight": "Round 2: Chardonnay - white - assorted countries (Team 3)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "Italy",
+				"name": "Wine 1 from Italy",
+				"region": "Noth East",
+				"vintage": 2018,
+				"price": 7.38,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "Wine 2 from South Africa",
+				"region": "Western Cape",
+				"vintage": 2017,
+				"price": 7.72,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Lebanon",
+				"name": "Wine 3 from Lebanon",
+				"region": "Bekaa Valley",
+				"vintage": 2016,
+				"price": 16.52,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Round 2: Rhone - white - France (Team 3)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 3",
+			"category": "Rhone - white - France",
+			"flight": "Round 2: Rhone - white - France (Team 3)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "France",
+				"name": "Wine 1 from France",
+				"region": "Rhône",
+				"vintage": 2016,
+				"price": 14.65,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "Wine 2 from France",
+				"region": "Rhône",
+				"vintage": 2016,
+				"price": 14.81,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Round 2: Shiraz & Shiraz blends - red - Australia (Team 3)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 3",
+			"category": "Shiraz & Shiraz blends - red - Australia",
+			"flight": "Round 2: Shiraz & Shiraz blends - red - Australia (Team 3)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "Australia",
+				"name": "Wine 1 from Australia",
+				"region": "South Eastern Australia",
+				"vintage": 2017,
+				"price": 4.5,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "Wine 2 from Australia",
+				"region": "Barossa",
+				"vintage": 2016,
+				"price": 12.42,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "Wine 3 from Australia",
+				"region": "Barossa Valley",
+				"vintage": 2015,
+				"price": 15.12,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "Wine 4 from Australia",
+				"region": "Eden Valley",
+				"vintage": 2015,
+				"price": 20.9,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			}
+		]
+	},
+	"Round 2: Shiraz & Shiraz blends - red - South Africa (Team 3)": {
+		"meta": {
+			"round": "Round 2",
+			"team": "Team 3",
+			"category": "Shiraz & Shiraz blends - red - South Africa",
+			"flight": "Round 2: Shiraz & Shiraz blends - red - South Africa (Team 3)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}"
+		},
+		"wines": [
+			{
+				"country": "South Africa",
+				"name": "Wine 1 from South Africa",
+				"region": "Stellenbosch",
+				"vintage": 2017,
+				"price": 9.36,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "Wine 2 from South Africa",
+				"region": "Stellenbosch",
+				"vintage": 2015,
+				"price": 17.24,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			}
+		]
+	}
+}

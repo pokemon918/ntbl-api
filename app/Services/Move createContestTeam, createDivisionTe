@@ -1,0 +1,3 @@
+Move createContestTeam, createDivisionTeam, deleteDivisionTeam, createContestCollection, validateCreateContestTeamPayload and validateCreateDivisionTeamPayload methods to ContestService
+
+Move createContestCollection, removeContestCollection, deleteContestCollection, getContestDataFromRef, getContestFullDataByRef, getContestDataViaTeamV3, getGeneralContestInfoV2, getDivisionTeamsV2, getDivisionCollectionRefs, getContestParticipantsV3, buildParticipantDataV3

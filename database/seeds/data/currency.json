@@ -1,0 +1,14 @@
+[
+	{
+		"key": "USD",
+		"name": "United States Dollar"
+	},
+	{
+		"key": "EUR",
+		"name": "Euro"
+	},
+	{
+		"key": "DKK",
+		"name": "Danish Krone"
+	}
+]

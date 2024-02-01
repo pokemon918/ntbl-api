@@ -1,0 +1,942 @@
+{
+	"Fine Wine of the Year": {
+		"meta": {
+			"team": "Team 1",
+			"category": "Fine Wine of the Year",
+			"flight": "Fine Wine of the Year",
+			"metadata": "{\"medal_page\":false,\"swa_round_2\":true,\"tastingType\":\"swa20\"}",
+			"start_date": "2020-03-13T00:00:00.000Z",
+			"end_date": "2021-01-01T00:00:00.000Z"
+		},
+		"wines": [
+			{
+				"country": "France",
+				"name": "2020_FR-BY-R_012",
+				"region": "Burgundy",
+				"vintage": "2016",
+				"price": 27.15,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "2020_FR-RHO-N-R_003",
+				"region": "Rhône",
+				"vintage": "2018",
+				"price": 17.83,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "2020_FR-RHO-W_005",
+				"region": "Rhone",
+				"vintage": "2018",
+				"price": 39.69,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Germany",
+				"name": "2020_GER-RIE-D_013",
+				"region": "Mosel",
+				"vintage": "2018",
+				"price": 31.98,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_IT-CEN-W_019",
+				"region": "Tuscany",
+				"vintage": "2018",
+				"price": 29.36,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_IT-NW-BBO_003",
+				"region": "Piedmont",
+				"vintage": "2016",
+				"price": 28.48,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "2020_NW-CAM-AUS-MGR_005",
+				"region": "Margaret River",
+				"vintage": "2016",
+				"price": 18,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "2020_NW-CHY-SAF_006",
+				"region": "Walker Bay",
+				"vintage": "2018",
+				"price": 26,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "2020_NW-O-R_038",
+				"region": "Tasmania",
+				"vintage": "2018",
+				"price": 26.45,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "USA",
+				"name": "2020_NW-PIN-US_008",
+				"region": "RUSSIAN RIVER, SONOMA",
+				"vintage": "2016",
+				"price": 35.12,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "USA",
+				"name": "2020_NW-ZIN_005",
+				"region": "Sonoma",
+				"vintage": "2017",
+				"price": 18.07,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_SPN-RIO-W_010",
+				"region": "Rioja",
+				"vintage": "2016",
+				"price": 32,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Gastro-pub Wine of the Year": {
+		"meta": {
+			"team": "Team 1",
+			"category": "Gastro-pub Wine of the Year",
+			"flight": "Gastro-pub Wine of the Year",
+			"metadata": "{\"medal_page\":false,\"swa_round_2\":true,\"tastingType\":\"swa20\"}",
+			"start_date": "2020-03-13T00:00:00.000Z",
+			"end_date": "2021-01-01T00:00:00.000Z"
+		},
+		"wines": [
+			{
+				"country": "Austria",
+				"name": "2020_AUS-GV_001",
+				"region": "KREMSTAL",
+				"vintage": "2018",
+				"price": 11.42,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "2020_FR-BY-BJL-CR_003",
+				"region": "Beaujolais",
+				"vintage": "2018",
+				"price": 11.38,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "2020_FR-LOI-R_002",
+				"region": "Loire",
+				"vintage": "2018",
+				"price": 11.98,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "2020_FR-RHO-S-R_002",
+				"region": "Rhone",
+				"vintage": "2017",
+				"price": 10.67,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_IT-SS-R-NA_004",
+				"region": "Sicily",
+				"vintage": "2018",
+				"price": 9.86,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "2020_NW-CB_009",
+				"region": "Stellenbosch",
+				"vintage": "2018",
+				"price": 10.55,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Chile",
+				"name": "2020_NW-PIN-CHI-LEY_003",
+				"region": "Leyda",
+				"vintage": "2018",
+				"price": 9.03,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Chile",
+				"name": "2020_NW-SAV-CHI-LEY_006",
+				"region": "Leyda",
+				"vintage": "2019",
+				"price": 10.9,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Chile",
+				"name": "2020_OR_001",
+				"region": "Itata",
+				"vintage": "2019",
+				"price": 7.38,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_SPA-IT-P_011",
+				"region": "Veneto",
+				"vintage": "2019",
+				"price": 8.6,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_SPA-IT_007",
+				"region": "Trentino",
+				"vintage": "2016",
+				"price": 13.6,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_SPN-RIO-CR-R_003",
+				"region": "Rioja Alta",
+				"vintage": "2016",
+				"price": 9.65,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_SPN-R_021",
+				"region": "Alicante",
+				"vintage": "2017",
+				"price": 9.22,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			}
+		]
+	},
+	"Overall Wine of the Year": {
+		"meta": {
+			"team": "Team 1",
+			"category": "Overall Wine of the Year",
+			"flight": "Overall Wine of the Year",
+			"metadata": "{\"medal_page\":false,\"swa_round_2\":true,\"tastingType\":\"swa20\"}",
+			"start_date": "2020-03-13T00:00:00.000Z",
+			"end_date": "2021-01-01T00:00:00.000Z"
+		},
+		"wines": [
+			{
+				"country": "France",
+				"name": "2020_FR-BY-CHA-CR_002",
+				"region": "Chablis, Burgundy",
+				"vintage": "2017",
+				"price": 20.12,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Greece",
+				"name": "2020_GRE-W_011",
+				"region": "Macedonia",
+				"vintage": "2019",
+				"price": 14.36,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_IT-SS-W_014",
+				"region": "Sicilia",
+				"vintage": "2018",
+				"price": 13.2,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "2020_NW-CAM-SAF-ST_005",
+				"region": "Stellenbosch",
+				"vintage": "2010",
+				"price": 16.03,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "New Zealand",
+				"name": "2020_NW-CB_015",
+				"region": "Gisborne",
+				"vintage": "2017",
+				"price": 17.87,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "2020_NW-GRE_004",
+				"region": "Mclaren Vale, South Australia",
+				"vintage": "2019",
+				"price": 71.57,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "2020_NW-O-R_038",
+				"region": "Tasmania",
+				"vintage": "2018",
+				"price": 26.45,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "USA",
+				"name": "2020_NW-PGR_014",
+				"region": "Oregon",
+				"vintage": "2017",
+				"price": 14.47,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "USA",
+				"name": "2020_NW-ZIN_005",
+				"region": "Sonoma",
+				"vintage": "2017",
+				"price": 18.07,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_SPA-SP-CAV_005",
+				"region": "SUBIRATS",
+				"vintage": "2013",
+				"price": 18.57,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_SPN-NW-R_006",
+				"region": "Galicia",
+				"vintage": "2017",
+				"price": 26.01,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "England",
+				"name": "2020_UK-W_022",
+				"region": "Surrey",
+				"vintage": "2016",
+				"price": 22.81,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"House Wine of the Year": {
+		"meta": {
+			"team": "Team 1",
+			"category": "House Wine of the Year",
+			"flight": "House Wine of the Year",
+			"metadata": "{\"medal_page\":false,\"swa_round_2\":true,\"tastingType\":\"swa20\"}",
+			"start_date": "2020-03-13T00:00:00.000Z",
+			"end_date": "2021-01-01T00:00:00.000Z"
+		},
+		"wines": [
+			{
+				"country": "Chile",
+				"name": "2020_HW-R_002",
+				"region": "Central Valley",
+				"vintage": "2019",
+				"price": 3.98,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_HW-R_033",
+				"region": "Ribera Del Jucar",
+				"vintage": "2014",
+				"price": 5.74,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_HW-R_025",
+				"region": "Rioja",
+				"vintage": "2018",
+				"price": 5.57,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_HW-R_067",
+				"region": "Veneto",
+				"vintage": "2018",
+				"price": 5.85,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Chile",
+				"name": "2020_HW-R_026",
+				"region": "Valle Central",
+				"vintage": "2019",
+				"price": 5.65,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Australia",
+				"name": "2020_HW-R_040",
+				"region": "South Eastern Australia",
+				"vintage": "2019",
+				"price": 5.96,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_HW-R_062",
+				"region": "Valdepeñas",
+				"vintage": "2019",
+				"price": 5.52,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "2020_HW-RO_009",
+				"region": "Western Cape",
+				"vintage": "2018",
+				"price": 5.92,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_rose"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "2020_HW-RO_015",
+				"region": "Western Cape",
+				"vintage": "2019",
+				"price": 5.19,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_rose"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "2020_HW-W_032",
+				"region": "Western Cape",
+				"vintage": "2019",
+				"price": 5.59,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "2020_HW-W_060",
+				"region": "Western Cape",
+				"vintage": "2019",
+				"price": 5.19,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "2020_HW-W_021",
+				"region": "Robertson",
+				"vintage": "2018",
+				"price": 5.23,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "2020_HW-W_033",
+				"region": "Cape Town",
+				"vintage": "2019",
+				"price": 5.6,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_HW-W_065",
+				"region": "Valdepeñas",
+				"vintage": "2019",
+				"price": 5.54,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			}
+		]
+	},
+	"Food match": {
+		"meta": {
+			"team": "Team 1",
+			"category": "Food match",
+			"flight": "Food match",
+			"metadata": "{\"medal_page\":false,\"swa_round_2\":true,\"tastingType\":\"swa20\"}",
+			"start_date": "2020-03-13T00:00:00.000Z",
+			"end_date": "2021-01-01T00:00:00.000Z"
+		},
+		"wines": [
+			{
+				"country": "Austria",
+				"name": "2020_AUS-GV_001",
+				"region": "KREMSTAL",
+				"vintage": "2018",
+				"price": 11.42,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "2020_FR-BY-CHA_001",
+				"region": "Bourgogne",
+				"vintage": "2018",
+				"price": 9.19,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "2020_FR-LOI-CHE_001",
+				"region": "Loire",
+				"vintage": "2017",
+				"price": 7.34,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "2020_FR-LOI-R_002",
+				"region": "Loire",
+				"vintage": "2018",
+				"price": 11.98,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "2020_FR-RHO-S-R_002",
+				"region": "Rhone",
+				"vintage": "2017",
+				"price": 10.67,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_IT-CEN-CH-CL-R_001",
+				"region": "Toscana",
+				"vintage": "2017",
+				"price": 8.85,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_IT-CEN-W-V_007",
+				"region": "Marche",
+				"vintage": "2019",
+				"price": 10.27,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_IT-SS-R-NA_004",
+				"region": "Sicily",
+				"vintage": "2018",
+				"price": 9.86,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "2020_NW-CB_009",
+				"region": "Stellenbosch",
+				"vintage": "2018",
+				"price": 10.55,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Chile",
+				"name": "2020_NW-O-R-MAU_007",
+				"region": "Maule",
+				"vintage": "2018",
+				"price": 9.52,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Japan",
+				"name": "2020_NW-O-W-K_002",
+				"region": "Fuefuki District",
+				"vintage": "2017",
+				"price": 12.6,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Chile",
+				"name": "2020_NW-PIN-CHI-LEY_003",
+				"region": "Leyda",
+				"vintage": "2018",
+				"price": 9.03,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "South Africa",
+				"name": "2020_NW-PIN-SAF_004",
+				"region": "Durbanville",
+				"vintage": "2017",
+				"price": 9.5,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Chile",
+				"name": "2020_NW-SAV-CHI-LEY_008",
+				"region": "Leyda",
+				"vintage": "2019",
+				"price": 13.5,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Argentina",
+				"name": "2020_NW-TOR_001",
+				"region": "Salta",
+				"vintage": "2018",
+				"price": 7.23,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Portugal",
+				"name": "2020_OFS-L_000A",
+				"region": "Peninsula De Setubal",
+				"vintage": "NV",
+				"price": 8.6,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_fortified", "nuance_white"]
+				}
+			},
+			{
+				"country": "Portugal",
+				"name": "2020_PGL-VVE_008",
+				"region": "Vinho Verde",
+				"vintage": "2019",
+				"price": 6.5,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Portugal",
+				"name": "2020_PGL-D-R_015",
+				"region": "Douro Valley",
+				"vintage": "2011",
+				"price": 12.83,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "2020_ROS_034",
+				"region": "Rhône",
+				"vintage": "2018",
+				"price": 11.42,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_rose"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_SPA-IT-P_002",
+				"region": "Veneto",
+				"vintage": "NV",
+				"price": 5.92,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_SPA-IT-P_011",
+				"region": "Veneto",
+				"vintage": "2019",
+				"price": 8.6,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_SPN-CAT-R_020",
+				"region": "Priorat",
+				"vintage": "2016",
+				"price": 13.44,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_SPN-DUE-R_041",
+				"region": "Ribera Del Duero",
+				"vintage": "2017",
+				"price": 11.83,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_SPN-N-R_009",
+				"region": "Navarra",
+				"vintage": "2015",
+				"price": 9.42,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_SPN-NW-ALB_005",
+				"region": "Rias Baixas",
+				"vintage": "2018",
+				"price": 10.25,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_SPN-RIO-CR-R_003",
+				"region": "Rioja Alta",
+				"vintage": "2016",
+				"price": 9.65,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_SPN-RIO-GR-R_001",
+				"region": "Rioja",
+				"vintage": "2010",
+				"price": 13.15,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_SPN-RIO-W_012",
+				"region": "La Rioja",
+				"vintage": "2018",
+				"price": 9.25,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_white"]
+				}
+			},
+			{
+				"country": "Turkey",
+				"name": "2020_TUR-R-OKBO_003",
+				"region": "Aegean",
+				"vintage": "2018",
+				"price": 11.25,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still", "nuance_red"]
+				}
+			}
+		]
+	}
+}

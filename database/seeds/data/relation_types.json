@@ -1,0 +1,42 @@
+[
+	{
+		"key": "creator",
+		"name": "Creator"
+	},
+	{
+		"key": "owner",
+		"name": "Owner"
+	},
+	{
+		"key": "admin",
+		"name": "Administrator"
+	},
+	{
+		"key": "editor",
+		"name": "Editor"
+	},
+	{
+		"key": "member",
+		"name": "Member"
+	},
+	{
+		"key": "follow",
+		"name": "Follow"
+	},
+	{
+		"key": "like",
+		"name": "Like"
+	},
+	{
+		"key": "leader",
+		"name": "Leader"
+	},
+	{
+		"key": "guide",
+		"name": "Guide"
+	},
+	{
+		"key": "participant",
+		"name": "Participant"
+	}
+]

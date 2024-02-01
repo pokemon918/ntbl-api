@@ -1,0 +1,381 @@
+{
+	"[OR] Orange (Team 1)": {
+		"meta": {
+			"team": "Team 1",
+			"category": "[OR] Orange",
+			"flight": "[OR] Orange (Team 1)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}",
+			"start_date": null,
+			"end_date": null
+		},
+		"wines": [
+			{
+				"country": "Chile",
+				"name": "2020_OR_001",
+				"region": "Itata",
+				"vintage": "2019",
+				"price": 7.38,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "2020_OR_002",
+				"region": "France",
+				"vintage": "2018",
+				"price": 10.99,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "2020_OR_003",
+				"region": "Roussillon",
+				"vintage": "2018",
+				"price": 16.54,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_OR_004",
+				"region": "Veneto",
+				"vintage": "2018",
+				"price": 18.93,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "2020_OR_005",
+				"region": "Jura",
+				"vintage": "2017",
+				"price": 22.65,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_still"]
+				}
+			}
+		]
+	},
+	"[SPA-FR-CH-NV] Sparkling - NV Champagne (Team 1)": {
+		"meta": {
+			"team": "Team 1",
+			"category": "[SPA-FR-CH-NV] Sparkling - NV Champagne",
+			"flight": "[SPA-FR-CH-NV] Sparkling - NV Champagne (Team 1)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}",
+			"start_date": null,
+			"end_date": null
+		},
+		"wines": [
+			{
+				"country": "France",
+				"name": "2020_SPA-FR-CH-NV_001",
+				"region": "Champagne",
+				"vintage": "NV",
+				"price": 18.44,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "2020_SPA-FR-CH-NV_005",
+				"region": "Champagne",
+				"vintage": "NV",
+				"price": 25.83,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "2020_SPA-FR-CH-NV_009",
+				"region": "Champagne",
+				"vintage": "NV",
+				"price": 27.77,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "2020_SPA-FR-CH-NV_013",
+				"region": "Champagne",
+				"vintage": "NV",
+				"price": 29.48,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "2020_SPA-FR-CH-NV_019",
+				"region": "Champagne",
+				"vintage": "NV",
+				"price": 34.38,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "France",
+				"name": "2020_SPA-FR-CH-NV_024",
+				"region": "Champagne",
+				"vintage": "NV",
+				"price": 42,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			}
+		]
+	},
+	"[SPA-IT-P] Sparkling - Prosecco (Team 1)": {
+		"meta": {
+			"team": "Team 1",
+			"category": "[SPA-IT-P] Sparkling - Prosecco",
+			"flight": "[SPA-IT-P] Sparkling - Prosecco (Team 1)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}",
+			"start_date": null,
+			"end_date": null
+		},
+		"wines": [
+			{
+				"country": "Italy",
+				"name": "2020_SPA-IT-P_001",
+				"region": "Veneto",
+				"vintage": "2019",
+				"price": 5.25,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_SPA-IT-P_004",
+				"region": "Veneto",
+				"vintage": "NV",
+				"price": 7.2,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_SPA-IT-P_007",
+				"region": "Veneto",
+				"vintage": "NV",
+				"price": 7.57,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_SPA-IT-P_010",
+				"region": "Veneto",
+				"vintage": "2019",
+				"price": 8.6,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_SPA-IT-P_013",
+				"region": "Prosecco",
+				"vintage": "NV",
+				"price": 9.28,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_SPA-IT-P_016",
+				"region": "Friuli Venezia Giulia",
+				"vintage": "NV",
+				"price": 10.75,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			}
+		]
+	},
+	"[SPA-RO] Sparkling - Rosé - excl Champagne & England/Wales (Team 1)": {
+		"meta": {
+			"team": "Team 1",
+			"category": "[SPA-RO] Sparkling - Rosé - excl Champagne & England/Wales",
+			"flight": "[SPA-RO] Sparkling - Rosé - excl Champagne & England/Wales (Team 1)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}",
+			"start_date": null,
+			"end_date": null
+		},
+		"wines": [
+			{
+				"country": "Italy",
+				"name": "2020_SPA-RO_001",
+				"region": "Veneto",
+				"vintage": "NV",
+				"price": 7.91,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_rose"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_SPA-RO_003",
+				"region": "Province Of Brindisi",
+				"vintage": "NV",
+				"price": 10.34,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_rose"]
+				}
+			},
+			{
+				"country": "Chile",
+				"name": "2020_SPA-RO_005",
+				"region": "Valle de Leyda",
+				"vintage": "NV",
+				"price": 11.71,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_rose"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_SPA-RO_007",
+				"region": "Tuscany",
+				"vintage": "2013",
+				"price": 18.55,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_rose"]
+				}
+			},
+			{
+				"country": "Italy",
+				"name": "2020_SPA-RO_009",
+				"region": "Lombardy",
+				"vintage": "NV",
+				"price": 19.59,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_rose"]
+				}
+			},
+			{
+				"country": "Canada",
+				"name": "2020_SPA-RO_011",
+				"region": "Ontario",
+				"vintage": "NV",
+				"price": 23.45,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_rose"]
+				}
+			}
+		]
+	},
+	"[SPA-SP-CAV] Sparkling - Cava (Team 1)": {
+		"meta": {
+			"team": "Team 1",
+			"category": "[SPA-SP-CAV] Sparkling - Cava",
+			"flight": "[SPA-SP-CAV] Sparkling - Cava (Team 1)",
+			"metadata": "{\"medal_page\":true,\"swa_round_2\":true,\"tastingType\":\"swa20\"}",
+			"start_date": null,
+			"end_date": null
+		},
+		"wines": [
+			{
+				"country": "Spain",
+				"name": "2020_SPA-SP-CAV_001",
+				"region": "Cava",
+				"vintage": "2014",
+				"price": 6.2,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_SPA-SP-CAV_002",
+				"region": "Penedès",
+				"vintage": "NV",
+				"price": 8.15,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_SPA-SP-CAV_003",
+				"region": "Catalunya",
+				"vintage": "NV",
+				"price": 11.42,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_SPA-SP-CAV_004",
+				"region": "Catalunya",
+				"vintage": "NV",
+				"price": 13.69,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_SPA-SP-CAV_005",
+				"region": "SUBIRATS",
+				"vintage": "2013",
+				"price": 18.57,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			},
+			{
+				"country": "Spain",
+				"name": "2020_SPA-SP-CAV_006",
+				"region": "Cava",
+				"vintage": "NV",
+				"price": 6.82,
+				"currency": "GBP",
+				"notes": {
+					"@": ["category_sparkling", "nuance_white"]
+				}
+			}
+		]
+	}
+}
